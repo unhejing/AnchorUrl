@@ -1,6 +1,8 @@
 # AnchorUrl
-> url里面输入#tab后缀刷新以后就可以直接显示对应选项卡，例如http://127.0.0.14/Admins/srole/permiss/0/4.html#tab2 就可以直接跳到tab2的选项卡视图
-![](https://d.pr/0Ab3Yi)
+### url里面输入#tab后缀刷新以后就可以直接显示对应选项卡，例如http://127.0.0.14/Admins/srole/permiss/0/4.html#tab2 就可以直接跳到tab2的选项卡视图
+
+![image]("https://d.pr/0Ab3Yi")
+
 ### 选项卡头部代码块
 ``` html
 <ul class="nav nav-tabs" id="myTab">
